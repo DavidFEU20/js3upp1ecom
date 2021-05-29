@@ -1,0 +1,9 @@
+.shopping-cart {
+    min-width: 350px;
+  }
+ .image-width {
+    width: 90px
+}
+.rounded-pill {
+    border: 2px solid white;
+}
